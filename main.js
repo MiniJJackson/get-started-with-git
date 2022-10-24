@@ -4,6 +4,7 @@ function doSomething(){
 }
 function doSomethingElse(){
     console.log("... something new..");
+    console.log("I have done something new.")
 }
 
 doSomething();
